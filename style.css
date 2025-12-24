@@ -1,0 +1,10 @@
+nav{
+        padding:10px;
+        background:linear-gradient(45deg,black,slategrey);
+        border-radius: 10px;
+}
+
+.card,.cardbody{
+        border-radius: 10px;
+        box-shadow: 0 5px 10px black;
+}
